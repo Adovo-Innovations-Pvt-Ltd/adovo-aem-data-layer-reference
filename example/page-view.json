@@ -1,0 +1,7 @@
+{
+  "event": "page view",
+  "page": {
+    "title": "Example guide",
+    "url": "https://example.com/guides/data-quality"
+  }
+}
