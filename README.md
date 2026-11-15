@@ -32,6 +32,11 @@ Before using this in production, settle when the event fires, confirm the fields
 
 For delivery context, see Adovo's [Adobe Analytics measurement case study](https://www.adovo.ai/case-studies/adobe-analytics-enterprise-implementation) and [Adobe Experience Cloud services](https://www.adovo.ai/services/adobe).
 
+## Field notes
+
+- [AEM to Adobe Analytics measurement playbook](docs/aem-web-sdk-measurement-playbook.md) covers the event contract, consent, mapping, and QA sequence.
+- [Case study connection](docs/case-study-connection.md) explains how this small reference relates to Adovo's published measurement work.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
